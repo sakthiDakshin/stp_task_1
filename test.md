@@ -1,9 +1,4 @@
-# Software Tools and Practices
+# Software tools and Practices
 
-## Working with Git
-
-This is a test markdown file for the git activity. **Follow the instructions** in the guidelines.
-
-## About Me
-
-*You can remove this text and make your edits here.*
+### Working with Git
+working with Git is an intresting lab activity
