@@ -1,2 +1,4 @@
 LICENSE
 tempfile.txt
+*.sw*
+
